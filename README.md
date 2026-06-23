@@ -20,5 +20,6 @@
 ## Файлы
 
 - `source-registry-template.md` — шаблон реестра источников.
+- `sources/simferopol-vk-communities.md` — рабочий реестр публичных VK-сообществ Симферополя.
 - `keywords/event-keywords.md` — ключевые слова для поиска событий.
 - `checklists/source-quality-checklist.md` — оценка качества источника.
